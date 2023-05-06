@@ -14,7 +14,7 @@ Our goal is to analyze the Pokemon dataset and gain insights into the characteri
 8- How does the 'Speed' stat vary for each Pokemon type?
 9- Is there a correlation between the 'Legendary' status of a Pokemon and its 'Total' stats?
 
-After finishing our analysis as showed in the python file and HTML file also, We can get the insights as following:
+After finishing our analysis as showed in the python file, We can get the insights as following:
 
 1. The most common primary type among Pokemon is Water, followed by Normal and Grass.
 2.The most common secondary type among Pokemon is Flying, followed by Ground and Poison.
