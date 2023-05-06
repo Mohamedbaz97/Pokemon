@@ -16,7 +16,7 @@ Our goal is to analyze the Pokemon dataset and gain insights into the characteri
 
 After finishing our analysis as showed in the python file and HTML file also, We can get the insights as following:
 
-. The most common primary type among Pokemon is Water, followed by Normal and Grass.
+1. The most common primary type among Pokemon is Water, followed by Normal and Grass.
 2.The most common secondary type among Pokemon is Flying, followed by Ground and Poison.
 3.The most common primary and secondary type combination is Water-.
 4.The Pokemon with the highest total stats is Arceus, while the Pokemon with the lowest total stats is Sunkern.
